@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-Welcome to my Github repository!  I am Erica Neely, a mathematician and software developer.  I work mostly in Python although I dabble in other languages from time to time.  (And, of course, I use HTML, CSS, and SQL when needed to handle the front-end and the data management of my programs.)
+Welcome to my Github repository!  I am Erica Neely, a mathematician and software developer.  I work mostly in Python although I dabble in other languages from time to time.  
 
 
 <!--
